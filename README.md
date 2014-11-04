@@ -23,3 +23,6 @@ Episode 2 Complete, Fixed issues with launching client.
 Episode 3 Complete, mod loaded without problems.
 
 Episode 4 Complete, mod loaded with mcmod.info file correctly
+
+Episode 5 Complete, proxy and reference add and working
+

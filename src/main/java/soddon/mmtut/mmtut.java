@@ -1,16 +1,22 @@
 package soddon.mmtut;
 
 import cpw.mods.fml.common.Mod;
+import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
+import soddon.mmtut.proxy.IProxy;
+import soddon.mmtut.reference.Reference;
 
-@Mod(modid="mmtut",name="Minecraft Mod Tutorial",version="1.7.10-0.1")
+@Mod(modid= Reference.MOD_ID,name=Reference.MOD_NAME,version=Reference.VERSION)
 
 public class mmtut
 {
-    @Mod.Instance("mmtut")
+    @Mod.Instance(Reference.MOD_ID)
     public static mmtut instance;
+
+    @SidedProxy(clientSide = Reference.CLIENT_PROXY_CLASS, serverSide = Reference.SERVER_PROXY_CLASS)
+    public static IProxy proxy;
 
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event)
