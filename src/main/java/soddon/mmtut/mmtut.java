@@ -5,6 +5,7 @@ import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
+import soddon.mmtut.configuration.configurationHandler;
 import soddon.mmtut.proxy.IProxy;
 import soddon.mmtut.reference.Reference;
 
@@ -21,7 +22,7 @@ public class mmtut
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event)
     {
-
+        configurationHandler.init(event.getSuggestedConfigurationFile());
     }
 
     @Mod.EventHandler
