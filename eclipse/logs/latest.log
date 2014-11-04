@@ -1,12 +1,11 @@
-[16:44:24] [main/INFO]: Setting user: Player474
-[16:44:26] [Client thread/INFO]: LWJGL Version: 2.9.1
-[16:44:34] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft Mod Tutorial
-[16:44:35] [Sound Library Loader/INFO]: Sound engine started
-[16:44:36] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[16:44:36] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[16:44:37] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft Mod Tutorial
-[16:44:37] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[16:44:37] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[16:44:38] [Sound Library Loader/INFO]: Sound engine started
-[16:44:40] [Client thread/WARN]: Unable to start LAN server detection: Can't assign requested address
-[16:44:57] [Client thread/INFO]: Stopping!
+[17:22:58] [main/INFO]: Setting user: Player339
+[17:23:01] [Client thread/INFO]: LWJGL Version: 2.9.1
+[17:23:09] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft Mod Tutorial
+[17:23:10] [Sound Library Loader/INFO]: Sound engine started
+[17:23:11] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:23:12] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:23:12] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft Mod Tutorial
+[17:23:12] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:23:12] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:23:13] [Sound Library Loader/INFO]: Sound engine started
+[17:23:57] [Client thread/INFO]: Stopping!

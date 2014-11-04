@@ -1,0 +1,21 @@
+[
+{
+  "modid": "mmtut",
+  "name": "Minecraft Mod Tutorial",
+  "description": "Let's Mod Reboot with Pahimar walk Through",
+  "version": "0.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "GEN_Soddon"
+  ],
+  "credits": "Pahimar, thanks for the tutorial on minecraft modding",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
