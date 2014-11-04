@@ -26,3 +26,5 @@ Episode 4 Complete, mod loaded with mcmod.info file correctly
 
 Episode 5 Complete, proxy and reference add and working
 
+Episode 6 Complete, configuration ConfigValue don't forget to remove boolean when you add getboolean to line.
+
