@@ -1,2 +1,5 @@
 # Item localizations
 item.mmtut:stoneDust.name=Stone Dust
+
+# Block localizations
+tile.mmtut:log_stone_oak.name=Stone Oak

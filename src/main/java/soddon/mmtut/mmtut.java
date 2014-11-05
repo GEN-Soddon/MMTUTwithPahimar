@@ -7,6 +7,7 @@ import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import soddon.mmtut.handler.configurationHandler;
+import soddon.mmtut.init.ModBlocks;
 import soddon.mmtut.init.ModItems;
 import soddon.mmtut.proxy.IProxy;
 import soddon.mmtut.reference.Reference;
@@ -28,7 +29,7 @@ public class mmtut
         configurationHandler.init(event.getSuggestedConfigurationFile());
         FMLCommonHandler.instance().bus().register(new configurationHandler());
         ModItems.init();
-
+        ModBlocks.init();
         LogHelper.info("Pre Initialization Complete!");
     }
 

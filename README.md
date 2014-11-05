@@ -36,3 +36,12 @@ I remembered that an issue in 7 was corrected in 7.5
         -I am just a few videos away from being able to create my own mod.  Will start creating textures this week.
         
 Episode 8 Complete, Add stone Dust.  Need to update to better image before righting live mod.
+
+Episode 9 Complete, Add Stone Oak Log with side and top textures.
+
+        -Need to clean up code.  Must be a better way to handle overrides.
+        
+        -Maybe change out block to blockLog so logs can be rotated.
+        
+        -Increase the resistance to an explosion breaking it.
+        
