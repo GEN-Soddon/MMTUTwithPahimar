@@ -34,3 +34,5 @@ Episode 7 and 7.5 Complete, glad I have watched all videos before starting to wa
 I remembered that an issue in 7 was corrected in 7.5
 
         -I am just a few videos away from being able to create my own mod.  Will start creating textures this week.
+        
+Episode 8 Complete, Add stone Dust.  Need to update to better image before righting live mod.
