@@ -45,3 +45,16 @@ Episode 9 Complete, Add Stone Oak Log with side and top textures.
         
         -Increase the resistance to an explosion breaking it.
         
+Before moving further I spent time working on getting my minecraft user into my Dev World. With much testing I figured 
+it out.
+        
+        -you have to add a to vm options -Djava.library.path= and point it at your natives folder for the project.  
+        Easy way is to right click and past path after typing equal sign in.
+        
+        -next program arguments use --username=username@minecraft.net "your email address" and --password=123456 
+        "your password, note it will display your password."
+        
+       -sorry no screenshots. You should be able to figure out.  
+        
+        
+        
